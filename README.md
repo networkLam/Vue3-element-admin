@@ -1,4 +1,5 @@
 # project_ts_vue3
+#### 使用到的东西...vue3、vuex、vuerouter、element、echars、TS
 
 ## Project setup
 ```
